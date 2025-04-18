@@ -1,6 +1,16 @@
-# ✨ Sana Khurshid | Web Developer • Data Science & Python Enthusiast  
+<h1 align="center">✨ Sana Khurshid ✨</h1>
 
-Hi there! 👋 I'm **Sana Khurshid**, a passionate **Computer Science student** specializing in **Data Science**, **AI-driven solutions**, and **Web Development**. I love turning innovative ideas into meaningful projects that address real-world challenges using **data, algorithms, and creativity**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F76957&center=true&vCenter=true&width=435&lines=Web+Developer+%7C+Python+%7C+SQL+%7C+Data+Science+Enthusiast" alt="Typing SVG" />
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+Hi there! 👋 I'm **Sana Khurshid**, a passionate **Computer Science student** specializing in **Data Science**, **AI-driven solutions**, **Web Development**, and **Data Structures & Algorithms (DSA)**.
+
+I love turning innovative ideas into meaningful projects that address real-world challenges using **data, algorithms, and creativity**.
 
 ---
 
@@ -11,34 +21,55 @@ Hi there! 👋 I'm **Sana Khurshid**, a passionate **Computer Science student** 
 
 ---
 
-## 🛠️ Tech I Work With:
-- **Languages:** Python, SQL, HTML, CSS, JavaScript  
-- **Frameworks & Tools:** React, Pandas, NumPy, VS Code, Git, GitHub  
-- **Domains:** Data Science,  Web Development, Data Structures & Algorithms (DSA)
+## 🛠️ Tech I Work With
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DSA-FF9900?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</p>
 
 ---
 
-## 🎯 My Goals:
-- Master **Data Science, AI, Full-Stack Development, and DSA**
-- Deepen expertise in **Python, SQL, and Data Analysis**
-- Contribute to **open-source projects** and collaborative hackathons
-- Build **impactful projects** with social value
-- Land an exciting role in the **IT/Data Science industry**
+## 🎯 Goals
+- 📊 Master **Data Science, AI, Web Development, and DSA**
+- 🐍 Advance my expertise in **Python**, **SQL**, **Data Analysis**, and **Machine Learning**
+- 🌱 Contribute to **open-source projects** and hackathons
+- 🌍 Build **impactful projects** for social good
+- 💼 Secure a role in the **Data Science/IT industry**
 
 ---
 
-## 📚 Currently Learning:
+## 📚 Currently Learning
 - 🚀 **100 Days of Code: Python Bootcamp**
-- 📊 Advanced **SQL for Data Analysis**
-- 💻 Mastering **Data Structures & Algorithms (DSA)**
-  
+- 📊 **Advanced SQL** for Data Analysis
+- 💻 **Data Structures & Algorithms (DSA)**
+
 
 ---
 
-## 📫 Let's Connect!
-- 💼 [LinkedIn](https://linkedin.com/in/sana-khurshid)
-- 🌐 [Portfolio](#) *(Coming soon!)*
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanakhurshid&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanakhurshid&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-⭐️ *Thanks for visiting my profile! Let’s build and learn together.*  
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/sana-khurshid" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐️ *Thanks for stopping by! Let’s build and learn together.* 🚀
+
